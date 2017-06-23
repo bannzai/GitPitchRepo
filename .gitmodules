@@ -1,3 +1,6 @@
 [submodule "GitPitchSubRepo"]
 	path = GitPitchSubRepo
 	url = ../GitPitchSubRepo
+[submodule "Hofge"]
+	path = Hofge
+	url = git@github.com:bannzai/GitPitchSubRepo.git
